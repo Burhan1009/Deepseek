@@ -52,3 +52,12 @@ Step 4 To run the DeepSeek-R1 1.5B model using Ollama, use the following command
 ```bash
 ollama run deepseek-r1:1.5b
 ```
+Step 5 Enter Your Prompt if you connect with local machine without internet then its sake 3 seconds to think your prompt 
+
+![image](https://github.com/user-attachments/assets/6430de61-f878-4c97-8a3b-82eb667345a9)
+
+![image](https://github.com/user-attachments/assets/1f9b17ab-f09d-4de2-a7c3-1d6544bfe88e)
+
+
+
+
