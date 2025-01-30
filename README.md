@@ -5,3 +5,32 @@
 
 ## How to Setup Deepseek Locally 
 
+# Ollama
+
+Ollama is a tool that allows you to run and manage large language models (LLMs) locally on your computer. It provides a simple way to download, run, and interact with AI models without relying on cloud-based services.
+
+## Key Features
+
+- **Run AI models locally**: Supports models like LLaMA, Mistral, Gemma, and more.
+- **Offline functionality**: No internet required once models are downloaded.
+- **Faster responses**: Local execution ensures low latency and quick results.
+- **Custom models**: Supports custom models and fine-tuning.
+- **Cross-platform**: Works on Linux, macOS, and Windows (via WSL).
+
+## Getting Started
+
+To get started with Ollama, follow these steps:
+
+1. **Download Ollama**: Visit the official [Ollama website](https://ollama.ai) to download the latest version for your operating system.
+2. **Install Ollama**: Follow the installation instructions for your platform.
+3. **Download Models**: Use the command-line interface to download and manage AI models.
+4. **Run Models**: Start interacting with the models locally.
+
+## Usage
+
+### Download a Model
+To download a model (e.g., LLaMA), use the following command:
+```bash
+ollama pull llama
+```
+
