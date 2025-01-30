@@ -43,3 +43,10 @@ Step 2 Install deepseek-r1 Dependencies These dependencies take time to install 
 https://ollama.com/library/deepseek-r1:1.5b
 ![image](https://github.com/user-attachments/assets/daa79e77-9cb8-4bc2-adc4-947dc4e07bfc)
 
+Step 3 To Access Ollama On linux you can install using this command 
+![image](https://github.com/user-attachments/assets/af23abe9-4952-42c6-842d-4c040656a9ee)
+
+Step 4 To run the DeepSeek-R1 1.5B model using Ollama, use the following command its take some time maybe 15 mint's depend on server configuration 
+```bash
+ollama run deepseek-r1:1.5b
+```
