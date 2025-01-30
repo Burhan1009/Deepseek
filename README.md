@@ -63,5 +63,18 @@ Step 5 Enter Your Prompt if you connect with local machine without internet then
   
 ![image](https://github.com/user-attachments/assets/f3fd6dd3-8fe4-4021-ab29-b13676e0ee20)
 
+## Click on Setting to give a Ollama API Access
+
+![image](https://github.com/user-attachments/assets/d55da89c-73ec-4d7a-b43d-12eea029a066)
+
+![image](https://github.com/user-attachments/assets/2a9ee0f8-5271-484a-a620-a3cd7e31bf73)
+
+- Select API Host & Deepseek-r1:1.5b
+- Save the setting
+  
+![image](https://github.com/user-attachments/assets/db8fde8a-afbe-4ad4-8448-0582b16dd9ee)
+
+
+
 
 
