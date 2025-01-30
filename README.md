@@ -33,4 +33,9 @@ To download a model (e.g., LLaMA), use the following command:
 ```bash
 ollama pull llama
 ```
+Step 1 Setup Ollama on Linux.
+```bash
+ sudo snap install ollama
+```
+Windows User use https://ollama.com/
 
