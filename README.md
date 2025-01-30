@@ -39,3 +39,7 @@ Step 1 Setup Ollama on Linux.
 ```
 Windows User use https://ollama.com/
 
+Step 2 Install deepseek-r1 Dependencies These dependencies take time to install into the system.
+https://ollama.com/library/deepseek-r1:1.5b
+![image](https://github.com/user-attachments/assets/daa79e77-9cb8-4bc2-adc4-947dc4e07bfc)
+
