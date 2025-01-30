@@ -74,6 +74,9 @@ Step 5 Enter Your Prompt if you connect with local machine without internet then
   
 ![image](https://github.com/user-attachments/assets/db8fde8a-afbe-4ad4-8448-0582b16dd9ee)
 
+## your prompt 
+
+- ![image](https://github.com/user-attachments/assets/c0b5884a-e0e4-47f5-9edb-10d34523e805)
 
 
 
